@@ -1,4 +1,4 @@
-# [🚕 NYC_TAXI Data Pipeline 🚕](https://github.com/trannhatnguyen2/NYC_Taxi_Data_Pipeline)
+Below is summary of what went in my head that pushed me start working on something like this. Have a great read and follow me if you liked it.
 
 In today's data-driven landscape, analyzing extensive datasets is essential for deriving business insights. Our Taxi Data Analytics application leverages <b>Airflow, Spark, Delta Lake, Debezium, Kafka, DBT,</b> and <b>Great Expectations</b> to convert raw taxi trip data into actionable intelligence.
 
